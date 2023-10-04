@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaveenBelandur
 - 👀 I’m interested in Web Development , Techonology 
 - 🌱 I’m Working on Mern Stack currently 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate and Work on Open Sources 
 - 📫 You can reach me in mail 
 
 <!---
